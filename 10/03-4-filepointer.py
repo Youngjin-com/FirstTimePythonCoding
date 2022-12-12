@@ -1,0 +1,6 @@
+file = open("test_file2.txt", "r", encoding="utf-8")
+a = file.read(2)
+file.seek(0)
+b = file.read(2)
+file.close()
+print(a, b)
