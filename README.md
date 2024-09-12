@@ -2,7 +2,7 @@
 
 <img src="https://www.youngjin.com/images/book_cover/9788931467994.png" height="350px" style="border: 2px solid grey;">
 
-[코딩은 처음이라 with 파이썬(영진닷컴)](https://blog.naver.com/ydot/223251304286)
+[코딩은 처음이라 with 파이썬(영진닷컴)](https://blog.naver.com/ydot/223024853520)
 
 『코딩은 처음이라 with 파이썬』는 총 12장의 파트로 구성되어 있습니다만 사실 1장부터 11장까지는 모두 12장 파이썬 프로젝트의 프로그램을 이해하고 작성하기 위한 내용이라고 볼 수 있습니다.
 
