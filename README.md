@@ -1,6 +1,6 @@
 # 코딩은 처음이라 with 파이썬
 
-<img src="https://www.youngjin.com/images/book_cover/9788931469844.png" height="350px" style="border: 2px solid grey;">
+<img src="https://www.youngjin.com/images/book_cover/9788931467994.png" height="350px" style="border: 2px solid grey;">
 
 [코딩은 처음이라 with 파이썬(영진닷컴)](https://blog.naver.com/ydot/223251304286)
 
